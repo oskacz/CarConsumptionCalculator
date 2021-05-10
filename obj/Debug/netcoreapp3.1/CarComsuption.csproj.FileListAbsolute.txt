@@ -1,0 +1,13 @@
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.exe
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.deps.json
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.runtimeconfig.json
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.runtimeconfig.dev.json
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.dll
+C:\Users\okaplun\source\repos\CarComsuption\bin\Debug\netcoreapp3.1\CarComsuption.pdb
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.csprojAssemblyReference.cache
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.AssemblyInfoInputs.cache
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.AssemblyInfo.cs
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.csproj.CoreCompileInputs.cache
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.dll
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.pdb
+C:\Users\okaplun\source\repos\CarComsuption\obj\Debug\netcoreapp3.1\CarComsuption.genruntimeconfig.cache
